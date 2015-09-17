@@ -5,11 +5,11 @@ My `.bashrc` file was already pre-populated with some interesting-looking comman
 
 The command to add the variable is:
 
-    `export PUI2015="/home/cmp/GX5003/PUI2015"`
+    export PUI2015="/home/cmp/GX5003/PUI2015"
 
 and the alias to simply change to this directory from the bash prompt is:
 
-    `alias pui2015="cd $PUI2015"`
+    alias pui2015="cd $PUI2015"
 
 We could have also set the variable equal to `$HOME/GX5003/PUI2015` or `~/GX5003/PUI2015`, either of which would be portable for other users, but there's not really a need for portability in this case.
 
