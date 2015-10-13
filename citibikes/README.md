@@ -1,3 +1,8 @@
+# HW4
+
+There are two notebooks in this repo for HW4. Both are modified from the
+notebooks provided by Dr. Bianco. All modifications are my own work.
+
 # HW3 Problem 3 (Citibike)
 The notebook in this repo explores whether or not tourists are more likely
 to take Citibikes across the East River bridges than city residents. To
