@@ -1,6 +1,10 @@
 '''
-Solution to UCSL Python core challenge
 Created on Aug 8, 2015
+Modified Nov 18, 2015
+
+Originally did much of this for the UCSL, but since I never got any
+feedback on it, I feel okay touching this up and using it. I put a lot
+of work into it after all!
 
 @author: cmp670@nyu.edu
 '''
@@ -11,6 +15,7 @@ import matplotlib as mpl
 from matplotlib import pyplot as pl
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 import pandas as pd
+
 
 def myLabeledColorBar(axes, bounds, 
                       textlabs=[''], colorlist=['gray'], 
